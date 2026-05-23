@@ -20,27 +20,20 @@ The redesign reflects the client documentation: digital skills training, robotic
 
 # Faith Nkogi Ajenga Portfolio
 
-Personal portfolio website built and customized for Faith Nkogi Ajenga.
+Personal portfolio website built and customized for Faith Nkoki Njenga.
 
 
-
-
----
 
 ## 👨‍💻 Developer Credits
 
-Designed and developed by **BeMight**
+Designed and developed by **njenga njoki**
 
 ### 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/bemight
-- Portfolio: https://bemightsec.github.io
-- GitHub: https://github.com/bemight
-- Website: https://bemightsec.base44.app
+- LinkedIn: https://www.linkedin.com/in/njenga-njoki
+  phone no: 0799842714/0116048232
+  email: njenganjoki783@gmail.com
+  
 
-### 📰 Featured / News
-- Article or feature: https://is.gd/bemightnews
-
----
 
 ## 🚀 Deployment
 
@@ -55,4 +48,4 @@ To deploy:
 
 ---
 
-© 2026 BeMight. All rights reserved.
+© 2026 njenganjoki. All rights reserved.
